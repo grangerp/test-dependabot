@@ -7,7 +7,6 @@ authors = ["Philippe Granger <philippe.granger@servicenow.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Flask = "^1.1.2"
-Jinja2 = "2.11.3"
 
 [tool.poetry.dev-dependencies]
 
