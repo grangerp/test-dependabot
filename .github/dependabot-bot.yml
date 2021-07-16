@@ -1,3 +1,6 @@
 safe:
-  - graphene
   - charset-normalizer
+  - graphene
+  - graphql-core
+  - graphql-relay
+  - rx
