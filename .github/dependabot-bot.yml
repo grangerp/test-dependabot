@@ -1,6 +1,19 @@
 safe:
+  - anyio
+  - certifi
   - charset-normalizer
   - graphene
   - graphql-core
   - graphql-relay
-  - rx
+  - idna
+  - itsdangerous
+  - jinja2
+  - markupsafe
+  - promise
+  - python-multipart
+  - pyyaml
+  - requests
+  - six
+  - sniffio
+  - starlette
+  - urllib3
