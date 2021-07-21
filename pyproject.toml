@@ -6,7 +6,7 @@ authors = ["Philippe Granger <philippe.granger@servicenow.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-starlette = {extras = ["full"], version = "^0.15.0"}
+starlette = {extras = ["full"], version = "^0.16.0"}
 
 [tool.poetry.dev-dependencies]
 
